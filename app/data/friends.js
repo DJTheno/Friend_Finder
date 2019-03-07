@@ -1,3 +1,4 @@
+
 var yourFriends = [
     {
         "name":"Ahmed",
@@ -193,3 +194,4 @@ var yourFriends = [
 
       
 ]
+module.exports=yourFriends;
